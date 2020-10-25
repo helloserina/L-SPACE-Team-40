@@ -52,7 +52,7 @@ To edit the code use a text editor like Visual Studio Code
 ## Authors
 
 * **Jose** - (https://joseor1j.github.io/Portfolio/)
-* **Serina** - (https://google.com)
+* **Serina** - (https://github.com/helloserina)
 
 ## License
 
